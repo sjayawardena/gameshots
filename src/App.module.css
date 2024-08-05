@@ -17,16 +17,16 @@
 /* Hover effects */  
 
   a {
-    color: #555555;
     transition: color ease-in-out 0.3s;
   }
   
   a:hover {
+    color: #e901ff;
     text-decoration: none;
   }
   
   a:hover i {
-    color: #2142b2;
+    color: #e901ff;
     transition: color ease-in-out 0.3s;
   }
   
@@ -40,7 +40,7 @@
   i:hover {
     cursor: pointer;
     transition: color ease-in-out 0.3s;
-    color: #2142b2;
+    color: #e901ff;
   }
 
   
